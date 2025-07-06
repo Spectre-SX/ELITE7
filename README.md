@@ -1,6 +1,6 @@
-# ⚡ ELITE7 - A Python framework for reconnaissance and testing tools.
+# ⚡ ELITE7 
 
-## Moduler Python framework for ethical use only.
+## The best Python framework to use for ethical reconnaissance and testing blockades.
 
 ---
 

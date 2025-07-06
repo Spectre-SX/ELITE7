@@ -17,7 +17,7 @@ The best Python framework to use for ethical reconnaissance and testing blockade
 ### Reconnaissance
 - 🚥 Port Scanning  
 - 📡 Subdomain Scanning  
-- 🔍 Information Parsing (Over 7 Websites)  
+- 🔍 OSINT Scanning (Over 12 Websites)  
 
 ### Testing / Brute Forcing
 - 📊 SSH Attempt Logger  

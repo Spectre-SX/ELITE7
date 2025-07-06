@@ -1,6 +1,6 @@
-# ⚡ ELITE7
+# ⚡ ELITE666
 
-The best Python framework to use for ethical reconnaissance and testing blockades.
+The best bash script to use as your new multitool.
 
 ---
 
@@ -14,57 +14,29 @@ The best Python framework to use for ethical reconnaissance and testing blockade
 
 ## 🚀 Features
 
-### Reconnaissance
-- 🚥 Port Scanning  
-- 📡 Subdomain Scanning  
-- 🔍 OSINT Scanning (Over 12 Websites)  
-
-### Testing / Brute Forcing
-- 📊 SSH Attempt Logger  
-- More to be added soon 👀
+- Network Scanning
+- IP Geolocation
+- Random Features
+- System Info Fetching
+- And much more!
 
 ---
 
 ## 🧠 Detailed Modules Overview
 
-### Reconnaissance Module  
-ELITE7’s core strength. It scans usernames, emails, domains, and IPs across multiple platforms using OSINT techniques. Quickly identify footprints and gather intel.
+### Info Module 
+ELITE666's 2nd best module. Many use cases can be assigned to it.
 
-### Brute Force Module  
-Designed to ethically test your own SSH endpoints or systems for weak credentials. Logs attempts for analysis and improvement.
+### Network 
+Designed to ethically test your own network. ELITE666's Best module yet.
 
-### Reporting  
-Outputs neat HTML reports summarizing scans, findings, and alerts — ready to share with your team or for record keeping.
-
----
-
-## ⚙️ Supported Platforms & Checks
-
-- GitHub  
-- Reddit  
-- Telegram  
-- Instagram  
-- Twitter (X)  
-- Pinterest  
-- Steam  
-- Twitch  
-- SoundCloud  
-- TikTok  
-- GitLab  
-- Flickr  
-
-Checks include username existence, email Gravatar profiles, MX records, WHOIS lookups, DNS records, and more.
+### Random
+Has various functions, for nothing.
 
 ---
 
-## 💡 Usage Examples
+## 🔓 Launching the tool
 
-```bash
-# Username scan example
-python3 elite7.py --username "john_doe"
-
-# Domain scan example
-python3 elite7.py --domain "example.com"
-
-# Email scan example
-python3 elite7.py --email "email@example.com"
+### Download the tool, using the latest release.
+### Open it up
+### Enter the password, "EL1T3666"

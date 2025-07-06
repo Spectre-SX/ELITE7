@@ -40,3 +40,6 @@ Has various functions, for nothing.
 ### Download the tool, using the latest release.
 ### Open it up
 ### Enter the password, "EL1T3666"
+
+## Your good to go!
+---

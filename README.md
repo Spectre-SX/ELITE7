@@ -25,7 +25,7 @@ The best Python framework to use for ethical reconnaissance and testing blockade
 
 ---
 
-## 🧠 Detailed Overview
+## 🧠 Detailed Modules Overview
 
 ### Reconnaissance Module  
 ELITE7’s core strength. It scans usernames, emails, domains, and IPs across multiple platforms using OSINT techniques. Quickly identify footprints and gather intel.

@@ -10,3 +10,21 @@
 
 ---
 
+## Features
+
+### Reconnaissance
+
+- 🚥 Port Scanning
+- 📡 Subdomain Scanning
+- 🔍 Information Parsing
+  (Over 7 Websites)
+
+### Testing / Brute Forcing
+
+- 🔓 Brute-Force SSH
+- 📊 SSH Attempt Logger
+
+---
+
+### More to be added soon 👀
+

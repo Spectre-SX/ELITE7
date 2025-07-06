@@ -1,4 +1,4 @@
-# ELITE7 - A Python framework for reconnaissance and testing tools.
+# ⚡ ELITE7 - A Python framework for reconnaissance and testing tools.
 
 ## Moduler Python framework for ethical use only.
 

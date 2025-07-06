@@ -59,12 +59,4 @@ Checks include username existence, email Gravatar profiles, MX records, WHOIS lo
 
 ## 💡 Usage Examples
 
-```bash
-# Username scan example
-python3 elite7.py --username "john_doe"
-
-# Domain scan example
-python3 elite7.py --domain "example.com"
-
-# Email scan example
-python3 elite7.py --email "email@example.com"
+### I dont know...

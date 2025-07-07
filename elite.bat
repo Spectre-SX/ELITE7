@@ -30,9 +30,6 @@ exit
 :banner
 cls
 
-:: Set title just for fun
-title EL1T3 Banner with COLOR command
-
 :: Line 1: Background Black (0), Foreground Light Green (A)
 color A
 echo ███████╗██╗     ██╗████████╗██████╗ 

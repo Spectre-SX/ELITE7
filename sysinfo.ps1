@@ -67,3 +67,5 @@ $MAC
 $output | Out-File -FilePath $FileName -Encoding UTF8
 
 Write-Host "System info saved safely to: $FileName"
+
+Start-Process notepad.exe $FileName
